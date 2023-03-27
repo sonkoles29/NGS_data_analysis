@@ -17,6 +17,10 @@ Analysis of NGS data using clustering and classification methods of machine lear
 
 
 Locus overlap analysis for chromatin-bound protein enrichment at genomic regions of my interets:
+LOLA was developed Nathan Sheffield (https://bioconductor.org/packages/release/bioc/html/LOLA.html)
+
+- [Setting up LOLA analysis using Bioconductor package](https://github.com/sonkoles29/NGS_data_analysis/blob/main/Lola_enrichment_Analysis_CTCF.R)
+- [Analysis of LOLA results](https://github.com/sonkoles29/NGS_data_analysis/blob/main/LOLA_results_HeLa_WT.ipynb)
 
 
 
