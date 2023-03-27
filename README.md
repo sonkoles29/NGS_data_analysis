@@ -1,6 +1,6 @@
 # NGS data analysis
-During my PhD in Dr. Daniel Gerlich and Dr. Anton Goloborodko labs at IMBA, Vienna Biocenter I developed custom-based scripts to analyse NGS data for two projects on sister chromatid topology. 
-In this repository you can find the example of the scripts. Until the results of my PhD work are published, I hide the actual results. 
+
+In this repository one can find Python scripts that I developped during my PhD studying the topology of sister chromatids. I do not reveal the final results until our data will be published. 
 
 Analysis of Hi-C data using open2c tools: 
 
@@ -10,3 +10,7 @@ Analysis of Hi-C data using open2c tools:
 Analysis of ChIP-seq data: 
 
 - [Generating CTCF centered stack-ups](https://github.com/sonkoles29/NGS_data_analysis/blob/main/Generate_stacks_around_CTCF.ipynb)
+
+Analysis of NGS data using clustering and classification methods of machine learning:
+
+- 
