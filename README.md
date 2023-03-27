@@ -13,4 +13,4 @@ Analysis of ChIP-seq data:
 
 Analysis of NGS data using clustering and classification methods of machine learning:
 
-- [Clustering of TAD_boundaries](https://github.com/sonkoles29/NGS_data_analysis/blob/main/Cluster_analysis_HFF_TAD_boundaries.ipynb)
+- [Clustering of TAD boundaries in human HFF cells](https://github.com/sonkoles29/NGS_data_analysis/blob/main/Cluster_analysis_HFF_TAD_boundaries.ipynb)
