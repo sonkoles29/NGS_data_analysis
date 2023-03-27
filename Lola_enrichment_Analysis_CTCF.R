@@ -17,10 +17,10 @@ outFolder = "/groups/gerlich/experiments/Experiments_005700/005752/LOLA/LOLA_CTC
 
 binVector = list()
 # load in bedfiles
-binVector["TopTADs"] = readBed(paste(bedDir, "ctcf_top10.bed", sep=""))
+binVector["Top"] = readBed(paste(bedDir, "top10.bed", sep=""))
 
 # load in universe
-allBins = readBed(paste(bedDir,"universe_ctcf.bed", sep=""))
+allBins = readBed(paste(bedDir,"universe.bed", sep=""))
 # run analysis
 userSets = GRangesList(binVector)
 locResults = runLOLA(userSets, allBins, regionDB, cores=12)
@@ -36,11 +36,10 @@ outFolderEXT = "/groups/gerlich/experiments/Experiments_005700/005752/LOLA/LOLA_
 
 binVector = list()
 # load in bedfiles
-binVector["TopTADs"] = readBed(paste(bedDir, "ctcf_top10.bed", sep=""))
-#binVector["BottomTADs"] = readBed(paste(bedDir, "BottomTADsTransAmount.bed", sep=""))
+binVector["Top"] = readBed(paste(bedDir, "top10.bed", sep=""))
 
 # load in universe
-allBins = readBed(paste(bedDir,"universe_ctcf.bed", sep=""))
+allBins = readBed(paste(bedDir,"universe.bed", sep=""))
 # run analysis
 userSets = GRangesList(binVector)
 locResults = runLOLA(userSets, allBins, regionDB, cores=12)
