@@ -1,6 +1,6 @@
 # NGS data analysis
 
-In this repository one can find Python scripts that I developped during my PhD studying the topology of sister chromatids. I do not reveal the final results until the data are published. 
+In this repository one can find scripts that I developped during my PhD to nvestigate the topology of sister chromatids. I do not reveal the final results until the data are published. 
 
 Analysis of Hi-C data using open2c tools: 
 
