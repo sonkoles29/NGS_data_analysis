@@ -25,5 +25,5 @@ LOLA was developed Nathan Sheffield (https://bioconductor.org/packages/release/b
 
 Visualization of quantification of Hi-C contacts: 
 
-- [All, cis and trans contacts of scsHi-C maps with quantifications](https://github.com/sonkoles29/NGS_data_analysis/blob/main/Visualization_HiC_maps_with_pairing_score.ipynb)
+- [All, cis and trans contacts of scsHi-C maps with quantification](https://github.com/sonkoles29/NGS_data_analysis/blob/main/Visualization_HiC_maps_with_pairing_score.ipynb)
 
