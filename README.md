@@ -17,8 +17,8 @@ Analysis of NGS data using clustering and classification methods of machine lear
 - [Clustering of TAD boundaries in human HFF cells](https://github.com/sonkoles29/NGS_data_analysis/blob/main/Cluster_analysis_HFF_TAD_boundaries.ipynb)
 - [Classification of the Protein X sites](https://github.com/sonkoles29/NGS_data_analysis/blob/main/Random_forest_classifer.ipynb)
 
-Locus overlap analysis for chromatin-bound protein enrichment at genomic regions of my interets:
-LOLA was developed Nathan Sheffield (https://bioconductor.org/packages/release/bioc/html/LOLA.html)
+Locus overlap analysis for chromatin-bound protein enrichment at genomic regions of my interets
+(https://bioconductor.org/packages/release/bioc/html/LOLA.html):
 
 - [Setting up LOLA analysis using Bioconductor package](https://github.com/sonkoles29/NGS_data_analysis/blob/main/Lola_enrichment_Analysis_CTCF.R)
 - [Analysis of LOLA results](https://github.com/sonkoles29/NGS_data_analysis/blob/main/LOLA_results_HeLa_WT.ipynb)
