@@ -1,6 +1,6 @@
 # NGS data analysis
 
-In this repository one can find Python scripts that I developped during my PhD studying the topology of sister chromatids. I do not reveal the final results until our data will be published. 
+In this repository one can find Python scripts that I developped during my PhD studying the topology of sister chromatids. I do not reveal the final results until the data are published. 
 
 Analysis of Hi-C data using open2c tools: 
 
@@ -15,7 +15,7 @@ Analysis of ChIP-seq data:
 Analysis of NGS data using clustering and classification methods of machine learning:
 
 - [Clustering of TAD boundaries in human HFF cells](https://github.com/sonkoles29/NGS_data_analysis/blob/main/Cluster_analysis_HFF_TAD_boundaries.ipynb)
-
+- [Classification of the Protein X sites](https://github.com/sonkoles29/NGS_data_analysis/blob/main/Random_forest_classifer.ipynb)
 
 Locus overlap analysis for chromatin-bound protein enrichment at genomic regions of my interets:
 LOLA was developed Nathan Sheffield (https://bioconductor.org/packages/release/bioc/html/LOLA.html)
