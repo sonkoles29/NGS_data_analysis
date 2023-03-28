@@ -23,7 +23,7 @@ Locus overlap analysis for chromatin-bound protein enrichment at genomic regions
 - [Setting up LOLA analysis using Bioconductor package](https://github.com/sonkoles29/NGS_data_analysis/blob/main/Lola_enrichment_Analysis_CTCF.R)
 - [Analysis of LOLA results](https://github.com/sonkoles29/NGS_data_analysis/blob/main/LOLA_results_HeLa_WT.ipynb)
 
-Visualization of quantification of Hi-C contacts: 
+Visualization and quantification of Hi-C contact maps: 
 
 - [All, cis and trans contacts of scsHi-C maps with quantification](https://github.com/sonkoles29/NGS_data_analysis/blob/main/Visualization_HiC_maps_with_pairing_score.ipynb)
 
